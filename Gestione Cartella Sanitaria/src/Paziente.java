@@ -1,5 +1,10 @@
 
 public class Paziente
+/**
+ * Classe Paziente
+ * @author giuliarusso
+ * definisce dati del paziente
+*/
 {
 	String nome;
 	String cognome;
@@ -12,6 +17,7 @@ public class Paziente
 	String codiceFiscale;
 	int codiceSanitario;
 	String gruppoSanguigno;
+	
 
 	
 	
