@@ -17,6 +17,7 @@ public class Paziente
 	String codiceFiscale;
 	int codiceSanitario;
 	String gruppoSanguigno;
+	String occupazione;
 	
 
 	
